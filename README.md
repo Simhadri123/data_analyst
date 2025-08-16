@@ -1,4 +1,4 @@
-# 🔬 TDS Proje### Key Capabilities
+# 🔬 Data Analyst Project Key Capabilities
 - 🤖 **AI-Powered Analysis**: Leverages Google's Gemini API for intelligent data interpretation
 - 📊 **Advanced Visualizations**: Creates publication-ready charts using Matplotlib and Seaborn
 - 🌐 **Web Scraping**: Fetches real-time data from external sources
