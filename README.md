@@ -197,7 +197,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/Simhadri123/data_analyst/issues)
 - **Documentation**: [Project Wiki](https://github.com/Simhadri123/data_analyst/wiki)
-- **Author**: Sameer Simhadri
+- **Author**: Simhadri Sadaram
 
 ---
 
