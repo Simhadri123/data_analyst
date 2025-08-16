@@ -1,8 +1,3 @@
-Got it ✅ — your current README has a lot of repeated sections and scattered details. I’ll consolidate everything into a **final, professional, and polished README.md** that looks clean, avoids redundancy, and keeps all essential details.
-
-Here’s the improved version:
-
-````markdown
 # 🔬 TDS Data Analyst Agent
 
 An **enterprise-grade AI-powered data analysis platform** built with **FastAPI, LangChain, and Google Generative AI (Gemini)**. Designed for **TDS Project 2**, it enables automated insights, visualization, and reporting with an intuitive web interface.
